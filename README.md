@@ -2,8 +2,10 @@
 - 👀 I’m interested in Software Development and Cyber Security
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Open Projects and on a startup in the near future.
--I Have done manual QA Testing on websites and web apps can't wait to learn on automation.
-- 📫 How to reach me to be updated soon
+- I Have done manual QA Testing on websites and web apps and I can't wait to learn on automation.
+- 📫 How to reach me:
+- Email: duncanmainairungu@gmail.com
+- Twitter: BazengIrungu
 
 <!---
 BazengIrungu/BazengIrungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
